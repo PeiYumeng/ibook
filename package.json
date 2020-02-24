@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PeiYumeng/ibook/issues"
   },
-  "homepage": "https://github.com/PeiYumeng/ibook#readme"
+  "homepage": "https://github.com/PeiYumeng/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
